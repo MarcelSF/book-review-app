@@ -19,12 +19,12 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise'
-# gem "paperclip", "~> 6.0.0"
+gem "paperclip", "~> 6.0.0"
 
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 # gem simple form
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 # Use ActiveStorage variant
 
